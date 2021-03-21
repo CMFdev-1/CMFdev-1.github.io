@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro');
+body {
+  background-color: #2B2B2B;
+}
+.navbar {
+  background-color: #000000;
+  font-family: 'Source Code Pro', sans-serif;
+  color: #FFFFFF;
+}
